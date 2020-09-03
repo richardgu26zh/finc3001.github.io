@@ -11,7 +11,8 @@
 1. 钱水土，《货币金融学（第3版）》，机械工业出版社，2020年
 2. Frederic Mishkin, **_The Economics of Money, Banking and Financial Markets_**(11 edition),
 
-
+### Equations
+<img src="https://render.githubusercontent.com/render/math?math=p(\theta\vert y) = \frac{p(y\vert\theta)p(\theta)}{\int p(y\vert\theta)p(\theta)}">
 
 ## Welcome to GitHub Pages
 
