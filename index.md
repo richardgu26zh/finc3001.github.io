@@ -13,7 +13,8 @@
 
 ### Equations
 <img src="https://render.githubusercontent.com/render/math?math=p(\theta\vert y) = \frac{p(y\vert\theta)p(\theta)}{\int p(y\vert\theta)p(\theta)}">
-$$p(\theta\vert y) = \frac{p(y\vert\theta)p(\theta)}{\int p(y\vert\theta)p(\theta)}$$
+
+
 
 ## Welcome to GitHub Pages
 
